@@ -6,6 +6,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/472400962128969728?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=672z2rw9akcsdrb0hij00jx8g&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=672z2rw9akcsdrb0hij00jx8g&redirect=true)
 
 ![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FNahrin-Malakes)
