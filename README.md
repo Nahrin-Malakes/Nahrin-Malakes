@@ -5,3 +5,5 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/472400962128969728)](https://discord.com/users/472400962128969728)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=672z2rw9akcsdrb0hij00jx8g&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=672z2rw9akcsdrb0hij00jx8g&redirect=true)
+
+![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FNahrin-Malakes)
